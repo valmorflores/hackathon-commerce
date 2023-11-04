@@ -1,7 +1,10 @@
 # Storefront starter by deco.cx
 
+
+Uma mudança!
+
 A fully featured starter to help you customize and deploy an ecommerce website.
-in minutes.
+in minutes. 
 
 <div style="display: flex; justify-content: center; width: 100%">
 <img width="600px" height="147px"
